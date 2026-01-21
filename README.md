@@ -1,4 +1,4 @@
-# TITLE: Experiment number 1: Basics of Python
+# TITLE: Experiment number 2: Basics of Python
 ## **AIM:** To learn the basics of Python programming 
 ## **APPARATUS:** Google Collab, Github
 
