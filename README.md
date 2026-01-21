@@ -1,4 +1,6 @@
-# Experiment number 1: Basics of Python
+# TITLE: Experiment number 1: Basics of Python
+## **AIM:** To learn the basics of Python programming 
+## **APPARATUS:** Google Collab, Github
 
 # **_1. INTRODUCTION TO PYTHON_**
 Python is a high-level, interpreted, and general-purpose programming language. It was developed by Guido van Rossum and released in 1991. Python is known for its simple syntax and readability, which makes it easy to learn for beginners.
@@ -33,6 +35,6 @@ ________________________________________
 
 Operators are symbols used to perform operations on variables and values. Arithmetic operators are used to perform mathematical operations such as addition, subtraction, multiplication, and division. Relational operators are used to compare two values and return a True or False result. Logical operators are used to combine conditional statements and perform logical operations such as AND, OR, and NOT.
 
-_CONCLUSION_
+## _CONCLUSION_
 Python is an ideal language for beginners. Learning Python basics helps students build a strong foundation for advanced engineering applications and programming subjects.
 
